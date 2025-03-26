@@ -20,7 +20,7 @@ I gathered business requirements from the project manager, which included user s
 
 ![image]() ![image]() ![image]() 
 
-1. Use the Student Management System from https://thetestingworldapi.com/help 
+1. Use the Student Management System
 2. Add a POST Request: Add Student, Kandies A Hall, to the system.
 3. Make GET Request: To retrieve data of students I added in the  prior step.
 4. Make a PUT Request: Update Kandies A Hall to Kandies A Evon in the system.
