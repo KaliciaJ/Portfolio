@@ -5,7 +5,7 @@ Hello! I'm Kalicia Johnson 🤓, passionate about Quality Assurance in software 
 
 ## MY PROJECTS 
 
-*A glimpse of some of the projects I've been working on.*
+*Snippets (not the entire project) of some of the projects I've been working on.*
 
 **1. Test Case with Jira. Test Execution, Defect Report, & Traceability Report Zephyr Scale.**
 
@@ -18,7 +18,7 @@ I gathered business requirements from the project manager, which included user s
 
 **2. End-to-end manual testing in Postman using REST API.**
 
-![image]() ![image]() ![image]() 
+![image](manual API 1 POST.png) ![image]() ![image]() 
 
 1. Use the Student Management System
 2. Add a POST Request: Add Student, Kandies A Hall, to the system.
