@@ -37,3 +37,24 @@ I gathered business requirements from the project manager, which included user s
 5. Again Make a GET Request: To validate whether PUT worked correctly or did not work correctly.
 6. Make a DELETE Request: To Delete the student’s data.
 7. Again make one last GET Request: To validate whether DELETE worked correctly or did not work correctly. 
+
+
+## CONTACT DETAILS
+
+*Let’s connect! I am excited to hear back from you :D!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:Johnsonkalicia1@gmail.com">Johnsonkalicia1@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(318)207-7469</td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/kaliciajohnson/"> My LinkedIn</a></td>
+    </tr>
+    <tr>
+     
