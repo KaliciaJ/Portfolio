@@ -49,10 +49,6 @@ I gathered business requirements from the project manager, which included user s
       <td><a href="mailto:Johnsonkalicia1@gmail.com">Johnsonkalicia1@gmail.com</a></td>
     </tr>
     <tr>
-      <td>📞</td>
-      <td>(318)207-7469</td>
-    </tr>
-    <tr>
       <td>🌐</td>
       <td><a href="https://www.linkedin.com/in/kaliciajohnson/"> My LinkedIn</a></td>
     </tr>
