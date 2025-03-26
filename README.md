@@ -1,7 +1,17 @@
-# Portfolio
+
 ## ABOUT ME
 
 Hello! I'm Kalicia Johnson 🤓, passionate about Quality Assurance in software development. I wanted to show my love with a small portfolio of skills I gained. 
+
+## SKILLS
+
+Jira, Zephyr, API Testing, Regression Testing, Smoke Testing, Functional Testing, User Acceptance Testing, Database Validation and Verification, Test Cases, Test Execution, Bug/Defect Report, Github.
+
+HTML, SQL, REST API.
+
+MS Office Suite, Office Teams, Webex, Outlook, Postman.
+
+Business Communication, Pro-active Problem Solving, Project Management, Cash and Risk Management.
 
 ## MY PROJECTS 
 
