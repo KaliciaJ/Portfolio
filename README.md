@@ -8,7 +8,7 @@ Hello! I'm Kalicia Johnson 🤓, passionate about Quality Assurance in software 
 *A glimpse of some of the projects I've been working on.*
 
 **Test Case with Jira. Test Execution, Defect Report, & Traceability Report Zephyr Scale.**
-![image]()
+![image](userstory 1.png)
 
 I participated in a project to test an e-commerce site. I tested the functionality and features.
 
