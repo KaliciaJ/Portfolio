@@ -27,7 +27,7 @@ I gathered business requirements from the project manager, which included user s
 
 
 **2. End-to-end manual testing in Postman using REST API.**
-Full end-to-end test case here:[(https://documenter.getpostman.com/view/41599458/2sB2cPik29)]
+<a href="https://documenter.getpostman.com/view/41599458/2sB2cPik29">Click here to see full API Test</a>  
 
 ![image](manual API 1 POST.png) ![image](manual API 2 GET .png) ![image](manual API 3 PUT.png) 
 
