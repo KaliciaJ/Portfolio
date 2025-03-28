@@ -29,7 +29,7 @@ I gathered business requirements from the project manager, which included user s
 **2. End-to-end manual testing in Postman using REST API.**
 <a href="https://documenter.getpostman.com/view/41599458/2sB2cPik29">Click here to see full API Test</a>  
 
-![image](manual API 1 POST.png) ![image](manual API 2 GET .png) ![image](FULL test.png)
+![image](manual API 1 POST.png)  ![image](FULL test.png)
 
 1. Use the Student Management System
 2. Add a POST Request: Add Student, Kandies A Hall, to the system.
