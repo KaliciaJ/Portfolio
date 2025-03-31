@@ -21,9 +21,9 @@ Business Communication, Pro-active Problem Solving, Project Management, Cash and
 
 ![image](userstory 1.png) ![image](test execution 1.png) ![image](traceability report.png) 
 
-I participated in a project to test an e-commerce site. I tested the functionality and features.
+I've participated in a project to test an e-commerce site. I tested the functionality and features.
 
-I gathered business requirements from the project manager, which included user stories, acceptance criteria, functionalities, and expectations for the e-commerce site.
+I've gathered business requirements from the project manager, which included user stories, acceptance criteria, functionalities, and expectations for the e-commerce site.
 
 
 **2. End-to-end manual testing in Postman using REST API.**
